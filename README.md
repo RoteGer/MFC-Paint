@@ -1,4 +1,4 @@
-# MFC-Paint-
+# MFC-Paint
 
 Creating a paint program using Visual Studio MFC, C++ object oriented programming project.
 
